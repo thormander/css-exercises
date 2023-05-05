@@ -1,0 +1,17 @@
+.odd {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.cooler {
+    font-size: x-large;
+}
+#id1 {
+    color: blue;
+    font-family: DejaVu Sans;
+    font-size: 40px;
+}
+#id4 {
+    font-weight: bold;
+    background-color: lightgreen;
+    font-size: x-large;
+}
